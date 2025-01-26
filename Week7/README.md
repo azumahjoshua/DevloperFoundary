@@ -1,7 +1,7 @@
 # System Design of A Bank
 
 ## Introduction
-The banking application is designed using a microservices architecture deployed in a private data center to handle critical financial operations, ensuring high availability, scalability, and security. This document outlines the architecture, core components, and best practices followed during the design and implementation.
+The banking application is designed using a microservices architecture deployed in a private data center to handle critical financial operations, ensuring high availability, scalability, and security. This README outlines the architecture, core components, and best practices followed during the design and implementation.
 
 ---
 
